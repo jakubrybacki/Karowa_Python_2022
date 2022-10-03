@@ -1,4 +1,4 @@
-# Karowa_Python_2022
+# Python dla socjologów. Podstawy programowania. [3500-SCC-PdS]
 
 Mail: jakub.rybacki@uw.edu.pl
 
